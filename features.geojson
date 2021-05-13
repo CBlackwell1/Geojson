@@ -1,0 +1,3320 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "DHSS Division of Substance Abuse and Mental Health (Fernhook)",
+        "Address": "1901 Dupont Hwy. New Castle, DE 19720",
+        "Service Description": "Janitorial Services",
+        "Contract Set": "Delaware"
+      },
+      "geometry": {
+        "coordinates": [
+          -75.576291,
+          39.700676
+        ],
+        "type": "Point"
+      },
+      "id": "0163be32460004f95d58eb9d56f6ead0"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Document Management",
+        "Address": "Gertz Plaza Building, 92-31 Union Hall Street. Jamaica, NY 11443",
+        "Service Description": "Document Management",
+        "Contract Set": "Fedcap NY"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.797149,
+          40.70362
+        ],
+        "type": "Point"
+      },
+      "id": "0611cdc04305e7700547c7f03adeea71"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "USCG Atlantic City Grounds Services @ FAA William J. Hughes Technical Center",
+        "Address": "Atlantic City International Airport, Egg Harbor Township, NJ 08405",
+        "Service Description": " Grounds Maintenance",
+        "Contract Set": "Source America"
+      },
+      "geometry": {
+        "coordinates": [
+          -74.563254,
+          39.444308
+        ],
+        "type": "Point"
+      },
+      "id": "06fc565a5107e96626e4b10e71351f37"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "ICE Courier",
+        "Address": "290 Broadway, New York, NY 10007",
+        "Service Description": "Courier Services",
+        "Contract Set": "Source America"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.989308,
+          40.741895
+        ],
+        "type": "Point"
+      },
+      "id": "072536df890763265423ae12b517ef53"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "FAA Essex Cauldwell Air Traffic Control Tower",
+        "Address": "27 Wright Way Building M, Fairfield, NJ 07004",
+        "Service Description": "Janitorial Services",
+        "Contract Set": "Source America"
+      },
+      "geometry": {
+        "coordinates": [
+          -74.279844,
+          40.873467
+        ],
+        "type": "Point"
+      },
+      "id": "0b9b4bfb56cc63b839b114371a0327e6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Fedcap Mid-Atlantic Office (Education, RFM, ReServe)",
+        "Address": "300 New Jersey Avenue, NW, 9th Floor, Washington, D.C. 20001",
+        "Service Description": "Regional Office",
+        "Contract Set": "Fedcap US"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.010988,
+          38.894449
+        ],
+        "type": "Point"
+      },
+      "id": "0bc8f13d453ec31f4395dc0729374f1e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Addabbo",
+        "Address": "155-10 Jamaica Ave, Jamaica, NY 11432",
+        "Service Description": "Janitorial Services",
+        "Contract Set": "Source America"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.800927,
+          40.702726
+        ],
+        "type": "Point"
+      },
+      "id": "0bcfdeb243328c15696ce6f54a8c93ae"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "NYC HRA Downtown - 60 Lafayette St",
+        "Address": "60 Lafayette St, New York, NY 10013",
+        "Service Description": "Janitorial Services",
+        "Contract Set": "NYSID"
+      },
+      "geometry": {
+        "coordinates": [
+          -74.002589,
+          40.71661
+        ],
+        "type": "Point"
+      },
+      "id": "0c61fe6c7917596495a85fd1f28245f2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "FAIRFAX CSB",
+        "Address": "8221 Willow Oaks Corporate Dr, Fairfax, VA 22031",
+        "Service Description": "Supported Employment",
+        "Contract Set": "MVLE"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.233959,
+          38.863724
+        ],
+        "type": "Point"
+      },
+      "id": "0cf4af5db29e95f41084c93eaf800159"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Manhattan Medical Clinic",
+        "Address": "344 West 51st Street, New York, NY 10019",
+        "Service Description": "Medical Clinic",
+        "Contract Set": "Fedcap WeCare"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.987564,
+          40.763587
+        ],
+        "type": "Point"
+      },
+      "id": "0d877c9f482b8829d2b88bc63711a4a1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Battery Park",
+        "Address": "Battery Park, Manhattan, New York, New York, United States of America",
+        "Service Description": "",
+        "Contract Set": "Source America"
+      },
+      "geometry": {
+        "coordinates": [
+          -74.015824,
+          40.703011
+        ],
+        "type": "Point"
+      },
+      "id": "1055206dfb7bb20eb4c9a7222a786f06"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Woodside Center",
+        "Address": "941 Walnut Shade Rd, Dover, DE 19901",
+        "Service Description": "Janitorial Services",
+        "Contract Set": "Delaware"
+      },
+      "geometry": {
+        "coordinates": [
+          -75.544319,
+          39.0709
+        ],
+        "type": "Point"
+      },
+      "id": "114abc27d048e0c32e75b7967c823e3f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "NarcoFreedom Bushwick Clinic",
+        "Address": "1420 Bushwick Avenue,. Brooklyn, NY 11207",
+        "Service Description": "Medical Clinic",
+        "Contract Set": "Fedcap WeCare"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.909234,
+          40.68412
+        ],
+        "type": "Point"
+      },
+      "id": "11cf4ae1dc291e95d1ac870ae6918eb7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Atlantic City Jail",
+        "Address": "5060 ATLANTIC AVE, MAYS LANDING NJ 08330",
+        "Service Description": "",
+        "Contract Set": "ACCESS NJ"
+      },
+      "geometry": {
+        "coordinates": [
+          -74.712373,
+          39.447802
+        ],
+        "type": "Point"
+      },
+      "id": "143608c661da97a24350a8b27802f85f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Fitzwilliam County",
+        "Address": "Fitzwilliam County, NH",
+        "Service Description": "Supported Employment",
+        "Contract Set": "MVLE"
+      },
+      "geometry": {
+        "coordinates": [
+          -72.141667,
+          42.780556
+        ],
+        "type": "Point"
+      },
+      "id": "148fdcc21e1f921d713521da0e95e35b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "NYS Insurance Fund",
+        "Address": "44 S Broadway, White Plains, NY 10601",
+        "Service Description": "COVID Disinfecting Services",
+        "Contract Set": "NYSID"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.761575,
+          41.030852
+        ],
+        "type": "Point"
+      },
+      "id": "159b97e93dcbcc51193f3b609f058037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "26 Federal Plaza",
+        "Address": "26 Federal PlazaNew York, NY 10278",
+        "Service Description": "Janitorial Services",
+        "Contract Set": "Source America"
+      },
+      "geometry": {
+        "coordinates": [
+          -74.004464,
+          40.715035
+        ],
+        "type": "Point"
+      },
+      "id": "15d427020bc8d3a9da298d4474d7c93f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Berkshire - Reading - 95 London St",
+        "Address": "95 London St, Reading RG1 4QA, UK",
+        "Service Description": "",
+        "Contract Set": "Fedcap UK"
+      },
+      "geometry": {
+        "coordinates": [
+          -0.967375,
+          51.451272
+        ],
+        "type": "Point"
+      },
+      "id": "16a38732b5d691f9784425ef9c916041"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "National Museum of Health",
+        "Address": "2500 Linden Lane, Silver Spring, Maryland",
+        "Service Description": "Custodial",
+        "Contract Set": "MVLE"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.053118,
+          39.008683
+        ],
+        "type": "Point"
+      },
+      "id": "16b8e0887b54ee7e9f73155296ebdbc4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "271 Cadman Plaza",
+        "Address": "271 Cadman Plaza E, Brooklyn, NY 11202",
+        "Service Description": "Nursing, GSA COVID-19 Screening, Mechanical & Elevator Maintenance",
+        "Contract Set": "Source America"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.989979,
+          40.695907
+        ],
+        "type": "Point"
+      },
+      "id": "17317ae4fd4c0abb184d08704eebaee5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "NYC Transit Authority",
+        "Address": "130 Livingston St, Brooklyn, NY 11201",
+        "Service Description": "Office Services: Messenger, mail sort, delivery",
+        "Contract Set": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -73.988544,
+          40.690291
+        ],
+        "type": "Point"
+      },
+      "id": "18618c804ef558e794369529009fa422"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Atlantic County Facility Mgmt",
+        "Address": "1201 BACARACH BLVD ATLANTIC CITY NJ 08401 ",
+        "Service Description": "",
+        "Contract Set": "CWS"
+      },
+      "geometry": {
+        "coordinates": [
+          -74.451082,
+          39.377297
+        ],
+        "type": "Point"
+      },
+      "id": "1a32a0570ea6aef5ef671326645fe57f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Port Authority NY/NJ",
+        "Address": "5 boroughs; Jersey City; Newark; Hoboken",
+        "Service Description": " Messenger Service",
+        "Contract Set": "NYSID"
+      },
+      "geometry": {
+        "coordinates": [
+          -74.043143,
+          40.717754
+        ],
+        "type": "Point"
+      },
+      "id": "1a8d37485c4419a85e72bc2c255611e2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Vocational Rehabilitation",
+        "Address": "210 East 43rd Street, New York, NY 10017",
+        "Service Description": "Vocational Rehabilitation",
+        "Contract Set": "Fedcap NY"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.973312,
+          40.751039
+        ],
+        "type": "Point"
+      },
+      "id": "1b7379d49bac57186d2a3a8dc0b0b7a5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "NYC HRA Uptown: 132 West 125 Street",
+        "Address": "132 W 125th St, New York, NY 10027",
+        "Service Description": "Janitorial Services",
+        "Contract Set": "NYSID"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.94724,
+          40.808261
+        ],
+        "type": "Point"
+      },
+      "id": "1d687f1f69536578bcbd734134ef3091"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Atlantic County Animal Shelter",
+        "Address": "240 OLD TURNPIKE RD PLEASANTVILLE NJ 08232",
+        "Service Description": "",
+        "Contract Set": "ACCESS NJ"
+      },
+      "geometry": {
+        "coordinates": [
+          -74.519992,
+          39.392675
+        ],
+        "type": "Point"
+      },
+      "id": "1e3ac46c4ddc3a508bc5f269fac58364"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Employment for TANF Participants",
+        "Address": "801 E Main St, Richmond, VA 23219",
+        "Service Description": "Supported Employment",
+        "Contract Set": "MVLE"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.437235,
+          37.53847
+        ],
+        "type": "Point"
+      },
+      "id": "20647afd97235f7a55fd10a2138171a8"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Banknote: NYC Council",
+        "Address": "1231 Lafayette Ave, Bronx, NY 10474",
+        "Service Description": "Office Services Mail Services",
+        "Contract Set": "NYSID"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.890603,
+          40.816759
+        ],
+        "type": "Point"
+      },
+      "id": "22195fd2a8dbd71aed318f31019f2ea1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Banknote: NYS Orange County",
+        "Address": "1231 Lafayette Ave, Bronx, NY 10474",
+        "Service Description": "Office Services Mail Services",
+        "Contract Set": "NYSID"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.890603,
+          40.816759
+        ],
+        "type": "Point"
+      },
+      "id": "22401410270d1b45bd16460627996cf4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "EPA",
+        "Address": "290 Broadway, New York, NY 10007",
+        "Service Description": "Office Services: Mailroom, Admin Support",
+        "Contract Set": "Source America"
+      },
+      "geometry": {
+        "coordinates": [
+          -74.005182,
+          40.714739
+        ],
+        "type": "Point"
+      },
+      "id": "2415781d993814e8dcb11f474aba34ef"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Five Below TX",
+        "Address": "950 conroe park west drive, Conroe, TX 77303",
+        "Service Description": "Supported Employment",
+        "Contract Set": "Commercial"
+      },
+      "geometry": {
+        "coordinates": [
+          -95.455403,
+          30.373029
+        ],
+        "type": "Point"
+      },
+      "id": "24f427485dc0981be0f33d76769f70ec"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Asbury Park Office Building",
+        "Address": "630 Bangs Ave, Asbury Park, NJ ",
+        "Service Description": "",
+        "Contract Set": "ACCESS NJ"
+      },
+      "geometry": {
+        "coordinates": [
+          -74.010639,
+          40.216865
+        ],
+        "type": "Point"
+      },
+      "id": "254dd674897423fe6081da8749997438"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "NYC FDNY Ft Totten",
+        "Address": "418 Weaver Ave Bldg 336 & 415 Bayside, NY 11359",
+        "Service Description": "Janitorial Services",
+        "Contract Set": "NYSID"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.775812,
+          40.793402
+        ],
+        "type": "Point"
+      },
+      "id": "265363dbdcab4b73ff66c6ecfe12b1bb"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "NYC HRA Uptown:: 165 East 126 Street",
+        "Address": "165 East 126th St, 165 E 126th StNew York, NY 10035",
+        "Service Description": "Janitorial Services",
+        "Contract Set": "NYSID"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.935819,
+          40.804798
+        ],
+        "type": "Point"
+      },
+      "id": "2895a5b2bbf63103081f499f20304270"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Five Below NJ",
+        "Address": " 5 Gateway Boulevard Pedricktown, NJ 08067",
+        "Service Description": "Supported Employment",
+        "Contract Set": "Commercial"
+      },
+      "geometry": {
+        "coordinates": [
+          -75.413314,
+          39.740436
+        ],
+        "type": "Point"
+      },
+      "id": "28b616a689466b1d91d3581ab0e7aa9d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "LIRR Janitorial",
+        "Address": "Pennsylvania Station, New York, NY 10119",
+        "Service Description": "Janitorial Services",
+        "Contract Set": "NYSID"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.99347,
+          40.750562
+        ],
+        "type": "Point"
+      },
+      "id": "28d4ca48bf2224049bd9fe60e368c700"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "VA Newark",
+        "Address": "20 Washington Pl, Newark, NJ 07102",
+        "Service Description": "anitorial Services/ Mech Maintenance",
+        "Contract Set": "Source America"
+      },
+      "geometry": {
+        "coordinates": [
+          -74.17048,
+          41.101045
+        ],
+        "type": "Point"
+      },
+      "id": "2cefb0abaf42939dd266d1173c6b23ec"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Back to Work Bronx/ Employment Works",
+        "Address": "369 East 148th Street, Bronx, NY 10455",
+        "Service Description": "Employment Support",
+        "Contract Set": "Fedcap NY"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.919035,
+          40.815922
+        ],
+        "type": "Point"
+      },
+      "id": "2dd7457b6ff5bf8e42e897d4c7f85752"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "DLA Maritme Portsmouth Naval Yard Packaging Hoodies & Booties",
+        "Address": "Portsmouth, VA 23704",
+        "Service Description": "",
+        "Contract Set": "CWS"
+      },
+      "geometry": {
+        "coordinates": [
+          -76.296317,
+          36.823613
+        ],
+        "type": "Point"
+      },
+      "id": "32423ef0cbb0db2818f5bc2454adb6a7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "FAA Morristown",
+        "Address": "8 Airport Rd, Morristown, NJ 07960",
+        "Service Description": "Janitorial Services",
+        "Contract Set": "Source America"
+      },
+      "geometry": {
+        "coordinates": [
+          -74.423985,
+          40.792506
+        ],
+        "type": "Point"
+      },
+      "id": "3311d1de0a478f9f454fe6d2f017f445"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "NYC Transit Authority",
+        "Address": " 34th Street Manhattan Subway Stations",
+        "Service Description": "COVID Disinfecting Services",
+        "Contract Set": "NYSID"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.988127,
+          40.750086
+        ],
+        "type": "Point"
+      },
+      "id": "34f102780ab137288da6176b67b03cc7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "MA Commonwealth: Employment for Disabled Young Adults",
+        "Address": "2 Oliver St, Boston, MA 02110",
+        "Service Description": "Supported Employment",
+        "Contract Set": "CWS"
+      },
+      "geometry": {
+        "coordinates": [
+          -71.053978,
+          42.357283
+        ],
+        "type": "Point"
+      },
+      "id": "360fe6fc13e1b5b07915790708c8ac4c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Haslet Armory",
+        "Address": "122 William Penn Dover, DE 19901",
+        "Service Description": "Janitorial Services",
+        "Contract Set": "Delaware"
+      },
+      "geometry": {
+        "coordinates": [
+          -75.520482,
+          39.156004
+        ],
+        "type": "Point"
+      },
+      "id": "3ca9dd25ba837e79e2b890c1d06417cc"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Chelton Loft",
+        "Address": "104-106 East 126th Street, New York, NY 10035",
+        "Service Description": "Occupational Health Services",
+        "Contract Set": "Fedcap NY"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.937982,
+          40.805377
+        ],
+        "type": "Point"
+      },
+      "id": "3df5365bf6db3e0d272d40fc14f1e073"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "NYC OATH Print & Mail",
+        "Address": "1231 Lafayette Ave, Bronx, NY 10474",
+        "Service Description": " Print & Mail",
+        "Contract Set": "Commercial"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.890603,
+          40.816759
+        ],
+        "type": "Point"
+      },
+      "id": "3f36ea09b78dea0be4e8e3fe3ed4bf07"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Atlantic County Facility Mgmt",
+        "Address": "235 DOLPHIN AVE, NORTHFIELD NJ 08232",
+        "Service Description": "",
+        "Contract Set": "ACCESS NJ"
+      },
+      "geometry": {
+        "coordinates": [
+          -74.543997,
+          39.379538
+        ],
+        "type": "Point"
+      },
+      "id": "42e3cb7cb9a1fb09a8d64f4d23492ea6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Childrens Hospital (Chenega)",
+        "Address": "111 Michigan Ave NW, Washington, DC 20310",
+        "Service Description": "Custodial",
+        "Contract Set": "MVLE"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.014773,
+          38.926439
+        ],
+        "type": "Point"
+      },
+      "id": "43397d268a003c680d3353c9e879e99b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "ReServe South Florida",
+        "Address": "700 N Kendall Dr #709, Miami, FL 33156",
+        "Service Description": "Senior Support, Employment Support, Social Services",
+        "Contract Set": "ReServe"
+      },
+      "geometry": {
+        "coordinates": [
+          -80.320496,
+          25.687523
+        ],
+        "type": "Point"
+      },
+      "id": "436823f73055c12e358997ba13771553"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Manhattan Service Site",
+        "Address": "80 Vandam Street, New York, NY 10013",
+        "Service Description": "Clinic Support Services",
+        "Contract Set": "Fedcap WeCare"
+      },
+      "geometry": {
+        "coordinates": [
+          -74.007975,
+          40.726487
+        ],
+        "type": "Point"
+      },
+      "id": "44ccbeddbeae6f0bd013ade05ca353c7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Townsend Building",
+        "Address": " 401 Federal Street Dover, DE 19901",
+        "Service Description": "Janitorial Services",
+        "Contract Set": "Delaware"
+      },
+      "geometry": {
+        "coordinates": [
+          -75.522119,
+          39.157963
+        ],
+        "type": "Point"
+      },
+      "id": "44d43bd4d5e7a189d0629198f39e2429"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "US ARC (Army Resere Ctr)",
+        "Address": "356 Battery Rd, Staten Island, NY 10305",
+        "Service Description": "Janitorial Services",
+        "Contract Set": "Source America"
+      },
+      "geometry": {
+        "coordinates": [
+          -74.058,
+          40.600741
+        ],
+        "type": "Point"
+      },
+      "id": "44e39b674866bc1b8726465abb4e63f9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "NYC HRA Uptown:: 530 West 135 Street",
+        "Address": "530 W 135th St, New York, NY 10031",
+        "Service Description": "Janitorial Services",
+        "Contract Set": "NYSID"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.954306,
+          40.819575
+        ],
+        "type": "Point"
+      },
+      "id": "451412f99bb1220c53fd942480748ed6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Banknote: HPD",
+        "Address": "1231 Lafayette Ave, Bronx, NY 10474",
+        "Service Description": "Office Services: Mail pickup & delivery",
+        "Contract Set": "NYSID"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.890603,
+          40.816759
+        ],
+        "type": "Point"
+      },
+      "id": "4561fe3693cf60134240cccd77ccbd52"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "NJSPB Eggerts Crossing is AKA NY NJ RFTF, Regional Fugitive Task Force\n",
+        "Address": "141 Eggert's Crossing Rd, Lawrenceville, NJ 08648",
+        "Service Description": "",
+        "Contract Set": "ACCESS NJ"
+      },
+      "geometry": {
+        "coordinates": [
+          -74.743236,
+          40.27229
+        ],
+        "type": "Point"
+      },
+      "id": "479cefdc93c874a0324c0635419fbfb2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Justice of Peace 3-17",
+        "Address": "23731 Shortly Rd, Georgetown, DE 19947",
+        "Service Description": "Janitorial Services",
+        "Contract Set": "Delaware"
+      },
+      "geometry": {
+        "coordinates": [
+          -75.379864,
+          38.660388
+        ],
+        "type": "Point"
+      },
+      "id": "49419fd209cd207877a77782fa1db4de"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Linden (DHS)",
+        "Address": "501 New Lots Ave, Brooklyn, NY 11207",
+        "Service Description": "",
+        "Contract Set": "Wildcat"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.889478,
+          40.663639
+        ],
+        "type": "Point"
+      },
+      "id": "4a1b474f13565bb0603c5b7e040a2223"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Del DOT North District Headquarters",
+        "Address": " 39 East Regal Blvd, Newark, DE",
+        "Service Description": "Janitorial Services",
+        "Contract Set": "Delaware"
+      },
+      "geometry": {
+        "coordinates": [
+          -75.690669,
+          39.669951
+        ],
+        "type": "Point"
+      },
+      "id": "4b5671e37b3dba76b7ccee8ae02fdc47"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Kings Borough (DHS)",
+        "Address": "599 Clarkson Ave, Brooklyn, NY 11203",
+        "Service Description": "",
+        "Contract Set": "Wildcat"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.939242,
+          40.656529
+        ],
+        "type": "Point"
+      },
+      "id": "4d241b98906b4ce88ff8015a4b5bff9c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Banknote: Light Marker",
+        "Address": "1231 Lafayette Ave, Bronx, NY 10474",
+        "Service Description": "Industrial Manufacturing Light Marker",
+        "Contract Set": "Source America"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.890603,
+          40.816759
+        ],
+        "type": "Point"
+      },
+      "id": "4d4a7759e8ee1de0f4951b50948e7ab9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Atlantic County Facility Mgmt",
+        "Address": "201 SOUTH SHORE RD, NORTHFIELD NJ 08232",
+        "Service Description": "",
+        "Contract Set": "ACCESS NJ"
+      },
+      "geometry": {
+        "coordinates": [
+          -74.537534,
+          39.376787
+        ],
+        "type": "Point"
+      },
+      "id": "4dad0146f74d387e88025412765e908d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "US Coast Guard (USCG)",
+        "Address": "Coast Guard Dr, Staten Island, NY 10305",
+        "Service Description": " Mess Attendant (Food Services)",
+        "Contract Set": "Source America"
+      },
+      "geometry": {
+        "coordinates": [
+          -74.062713,
+          40.604567
+        ],
+        "type": "Point"
+      },
+      "id": "4f3ca64d62c71c01549fd3cc1ad1a1be"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Queens Medical Site",
+        "Address": "89-56 162nd Street, Jamaica, NY 11432",
+        "Service Description": "Medical Clinic",
+        "Contract Set": "Fedcap WeCare"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.79839,
+          40.705073
+        ],
+        "type": "Point"
+      },
+      "id": "4fd8ddaa03cae66e187993304e5b30e2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Delaware Fire and Training School",
+        "Address": "2311 McArthur Dr. New Castle, DE 19720",
+        "Service Description": "Janitorial Services",
+        "Contract Set": "Delaware"
+      },
+      "geometry": {
+        "coordinates": [
+          -75.615581,
+          39.690545
+        ],
+        "type": "Point"
+      },
+      "id": "53b64567a232e19bbe33232e7b0f408a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "J.P. Court #4",
+        "Address": "408 Stein Hwy, Seaford, DE 19973",
+        "Service Description": "Janitorial Services",
+        "Contract Set": "Delaware"
+      },
+      "geometry": {
+        "coordinates": [
+          -75.613693,
+          38.647469
+        ],
+        "type": "Point"
+      },
+      "id": "53e1cded3c0df70766f69c5af86f44d6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "DelDOT Talley",
+        "Address": "1300 Talley Rd, Wilmington, DE 19809",
+        "Service Description": "Janitorial Services",
+        "Contract Set": "Delaware"
+      },
+      "geometry": {
+        "coordinates": [
+          -75.52836,
+          39.776683
+        ],
+        "type": "Point"
+      },
+      "id": "5400461aa29cf62121b9a37803c83538"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Wilburtha NJSP Welcome Center",
+        "Address": "1020 River Rd., Ewing, NJ 08628",
+        "Service Description": "",
+        "Contract Set": "ACCESS NJ"
+      },
+      "geometry": {
+        "coordinates": [
+          -74.847201,
+          40.265604
+        ],
+        "type": "Point"
+      },
+      "id": "5485a9a83dd3a8a72f54b48e250ceef7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Bridgeton",
+        "Address": "1 Landis Ave Bridgeton, NJ",
+        "Service Description": "",
+        "Contract Set": "ACCESS NJ"
+      },
+      "geometry": {
+        "coordinates": [
+          -75.207314,
+          39.461313
+        ],
+        "type": "Point"
+      },
+      "id": "586e1b2a3fbdb0a576934618b4740ea1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Fedcap Delaware Office",
+        "Address": "241 Old Churchmans Rd, New Castle, DE 19720",
+        "Service Description": "Regional Office",
+        "Contract Set": "Fedcap US"
+      },
+      "geometry": {
+        "coordinates": [
+          -75.628205,
+          39.681827
+        ],
+        "type": "Point"
+      },
+      "id": "58d074ee6b29258a2bb2a9b7dbb8dc2b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Humphreys Engineering Center",
+        "Address": "7701 Telegraph Rd, Alexandria, VA 22315",
+        "Service Description": "Custodial",
+        "Contract Set": "MVLE"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.141962,
+          38.74276
+        ],
+        "type": "Point"
+      },
+      "id": "5ac56e0f4385c258ea95f08c55653bf9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "NYC Transit Authority",
+        "Address": "1/2/3/4/5/6 Train Subway Station",
+        "Service Description": "COVID Disinfecting Services",
+        "Contract Set": "NYSID"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.95309,
+          40.810975
+        ],
+        "type": "Point"
+      },
+      "id": "5adedece26b62f609cd92520a404e728"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Defense Acquisition University",
+        "Address": "9820 Belvoir Rd #5565, Fort Belvoir, VA 22060",
+        "Service Description": "Custodial",
+        "Contract Set": "MVLE"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.136696,
+          38.696423
+        ],
+        "type": "Point"
+      },
+      "id": "5c9e53f403de27f4df6282ea92b2bfe5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Hudson River Park Trust",
+        "Address": "353 West St, New York, NY 10011",
+        "Service Description": "Janitorial Services",
+        "Contract Set": "NYSID"
+      },
+      "geometry": {
+        "coordinates": [
+          -74.011028,
+          40.733069
+        ],
+        "type": "Point"
+      },
+      "id": "5e458cc2fd867e8db489399f7ac71731"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "NYS DOH EMS",
+        "Address": "433 River St, Troy, NY 12180",
+        "Service Description": "Office Services - Data Entry",
+        "Contract Set": "NYSID"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.686919,
+          42.737901
+        ],
+        "type": "Point"
+      },
+      "id": "5e68ab2d1167834b9e223d731357acd6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "FAA LGA Tower",
+        "Address": "LGA Airport",
+        "Service Description": "Janitorial Services",
+        "Contract Set": "Source America"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.873965,
+          40.776927
+        ],
+        "type": "Point"
+      },
+      "id": "5f1648ac070eae66bffef54e3bfc542f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "FDNY",
+        "Address": "Various Locations",
+        "Service Description": "Office Services: Mailroom; Distribution; Messenger",
+        "Contract Set": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -74.378586,
+          40.424408
+        ],
+        "type": "Point"
+      },
+      "id": "5fdd52f2d586225263f66bec36d91a0e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Atlantic County Facility Mgmt",
+        "Address": "1333 ATLANTIC AVE, ATLANTIC CITY NJ 08401",
+        "Service Description": "",
+        "Contract Set": "ACCESS NJ"
+      },
+      "geometry": {
+        "coordinates": [
+          -74.427335,
+          39.362569
+        ],
+        "type": "Point"
+      },
+      "id": "60de2ba6594f36afc9ebda23052fd3de"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Robert A. Roe Federal Building",
+        "Address": "200 Federal Plaza, Paterson, NJ 07505",
+        "Service Description": " Grounds Maintenance",
+        "Contract Set": "Source America"
+      },
+      "geometry": {
+        "coordinates": [
+          -74.168498,
+          40.914722
+        ],
+        "type": "Point"
+      },
+      "id": "63666a7b480d870ba1c4e12d9db75abb"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "FAA Teterboro",
+        "Address": "225 Fred Wehran Dr, Teterboro, NJ 07608",
+        "Service Description": "Janitorial Services, Grounds Maintenance",
+        "Contract Set": "Source America"
+      },
+      "geometry": {
+        "coordinates": [
+          -74.055123,
+          40.852783
+        ],
+        "type": "Point"
+      },
+      "id": "63e2263e334245be127408a36684f637"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "DelDOT Survey Office & Construction Trailer",
+        "Address": "39 East Regal Blvd,Newark, DE 19713",
+        "Service Description": "Janitorial Services",
+        "Contract Set": "Delaware"
+      },
+      "geometry": {
+        "coordinates": [
+          -75.690669,
+          39.669951
+        ],
+        "type": "Point"
+      },
+      "id": "64d7be13378b0cd8c78742b4be0c09b6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "NJSP Museum & Log Cabin",
+        "Address": "1020 River Rd, Ewing, NJ 08628",
+        "Service Description": "",
+        "Contract Set": "ACCESS NJ"
+      },
+      "geometry": {
+        "coordinates": [
+          -75.02453,
+          39.239308
+        ],
+        "type": "Point"
+      },
+      "id": "64eb037b9b37fbe38b94d2831fded84d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Broadway House (Berkshire-Newsbury)",
+        "Address": "Broadway House, 4-8 The Broadway, Newbury RG14 1BA, UK",
+        "Service Description": "",
+        "Contract Set": "Fedcap UK"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.324514,
+          51.405327
+        ],
+        "type": "Point"
+      },
+      "id": "64fee7aa6a9df727693b5e1d6df0c501"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "NYC Dept of Correction: Health Mgmt Division",
+        "Address": "59-17 Junction Blvd Queens, NY 11373",
+        "Service Description": "Janitorial Services",
+        "Contract Set": "NYSID"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.86436,
+          40.73475
+        ],
+        "type": "Point"
+      },
+      "id": "6683de240307dd3d9035f555ff5164cd"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "NYC HRA - 14th St",
+        "Address": "8 W 14th St, New York, NY 10011",
+        "Service Description": "Janitorial Services",
+        "Contract Set": "NYSID"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.994673,
+          40.735943
+        ],
+        "type": "Point"
+      },
+      "id": "6727e1f337a013a0bd1e5bf4723a9a43"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "NYC Department of Health and Mental Hygiene",
+        "Address": "1231 Lafayette Ave, Bronx, NY 10474",
+        "Service Description": "Print, Scan, Mail",
+        "Contract Set": "Commercial"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.890603,
+          40.816759
+        ],
+        "type": "Point"
+      },
+      "id": "6af44bc5aa709c9df9fab4dcf05c1e60"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "40 Centre St",
+        "Address": "40 Centre St, New York, NY 10007",
+        "Service Description": "Janitorial Services",
+        "Contract Set": "Source America"
+      },
+      "geometry": {
+        "coordinates": [
+          -74.002656,
+          40.713749
+        ],
+        "type": "Point"
+      },
+      "id": "6c0f8501e01363595df42409fe7c1c2c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "BELLEVUE (DHS)",
+        "Address": "400 E 30th St, New York, NY 10016",
+        "Service Description": "",
+        "Contract Set": "Wildcat"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.974771,
+          40.740577
+        ],
+        "type": "Point"
+      },
+      "id": "6f9d635a3045ffac9285b7098587438a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Housing Trust Fund Corporation Section 8 Printing & Mailing Services",
+        "Address": "1231 Lafayette Ave, Bronx, NY 10474",
+        "Service Description": "Print & Mai",
+        "Contract Set": "Commercial"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.890603,
+          40.816759
+        ],
+        "type": "Point"
+      },
+      "id": "70eb0891e037dae4b4d6d6de008ad176"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "NYS Department of Labor Church St",
+        "Address": "199 Church St, New York, NY 10007",
+        "Service Description": "Office Services: Messenger, mail sort, delivery",
+        "Contract Set": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -74.006762,
+          40.716229
+        ],
+        "type": "Point"
+      },
+      "id": "739c2a1e64dfd5b8aa8dbda754c953cd"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Acacia (DHS)",
+        "Address": "148 W 124th St, New York, NY 10027",
+        "Service Description": "",
+        "Contract Set": "Wildcat"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.947991,
+          40.807653
+        ],
+        "type": "Point"
+      },
+      "id": "73de89c5ae3312eda4e52bb814f43492"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Deptcor",
+        "Address": "163 N Olden Ave. Trenton, NJ",
+        "Service Description": "",
+        "Contract Set": "ACCESS NJ"
+      },
+      "geometry": {
+        "coordinates": [
+          -74.741944,
+          40.228797
+        ],
+        "type": "Point"
+      },
+      "id": "743dc1e1554fd72125db3f90d9a4699b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Brooklyn Center",
+        "Address": "25 Elm Place, Brooklyn, NY 11201",
+        "Service Description": "Clinic Support Services",
+        "Contract Set": "Fedcap WeCare"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.984028,
+          40.68915
+        ],
+        "type": "Point"
+      },
+      "id": "74acb577d495ce5ea9134d93a89545a0"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Congresswoman Yvette Clark",
+        "Address": "222 Lenox Rd Suite 1, Brooklyn, NY 11226",
+        "Service Description": "Janitorial Services",
+        "Contract Set": "Commercial"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.951677,
+          40.653588
+        ],
+        "type": "Point"
+      },
+      "id": "788457a65e53dafee65a8b1e15454a9f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Atlantic County Facility Mgmt",
+        "Address": "2 SOUTH MAIN STREET, PLEASANTVILLE NJ 08232",
+        "Service Description": "",
+        "Contract Set": "ACCESS NJ"
+      },
+      "geometry": {
+        "coordinates": [
+          -74.52241,
+          39.391713
+        ],
+        "type": "Point"
+      },
+      "id": "7ad7d7c692102bb6a3929f3961f039d8"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Catherine st. (DHS)",
+        "Address": "78 Catherine St, New York, NY 10038",
+        "Service Description": "",
+        "Contract Set": "Wildcat"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.997508,
+          40.710603
+        ],
+        "type": "Point"
+      },
+      "id": "7b0b66e143a20935915f012f83d86769"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "LIRR Trailers",
+        "Address": "1231 Layfayette Avenue, Bronx, NY",
+        "Service Description": "Janitorial Services",
+        "Contract Set": "NYSID"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.890603,
+          40.816759
+        ],
+        "type": "Point"
+      },
+      "id": "7ba1012121440e2ad4666d75486093e1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "290 Broadway",
+        "Address": "290 Broadway, New York, NY 10007",
+        "Service Description": "Janitorial Services",
+        "Contract Set": "Source America"
+      },
+      "geometry": {
+        "coordinates": [
+          -74.005182,
+          40.714739
+        ],
+        "type": "Point"
+      },
+      "id": "7c8211defd8c384c8d1d7e1cee49c794"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Career Design School",
+        "Address": "210 East 43rd Street, New York, NY 10017",
+        "Service Description": "Employment Support",
+        "Contract Set": "Fedcap NY"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.973312,
+          40.751039
+        ],
+        "type": "Point"
+      },
+      "id": "7c935ef9362763791f7e7baad4d971c1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Dover Toll Plaza",
+        "Address": " 200 Plaza Drive, Dover DE 19904",
+        "Service Description": "Janitorial Services",
+        "Contract Set": "Delaware"
+      },
+      "geometry": {
+        "coordinates": [
+          -75.521244,
+          39.188702
+        ],
+        "type": "Point"
+      },
+      "id": "7dd1d1682e653b52c26c5adc1b91ed99"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Armory Men's shelter (DHS)",
+        "Address": "1322 Bedford Ave, Brooklyn, NY 11216",
+        "Service Description": "",
+        "Contract Set": "Wildcat"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.953727,
+          40.67839
+        ],
+        "type": "Point"
+      },
+      "id": "7de9116fc8ebfda6277686ceeb045a38"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "DOC Probation and Parole - Dover",
+        "Address": "511 Maple Parkway, Dover, DE 19901",
+        "Service Description": "Janitorial Services",
+        "Contract Set": "Delaware"
+      },
+      "geometry": {
+        "coordinates": [
+          -75.518116,
+          39.165099
+        ],
+        "type": "Point"
+      },
+      "id": "8295f7f69c2bc8558429edfba49aab83"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "IRS",
+        "Address": "290 Broadway, NY, NY",
+        "Service Description": "Mailroom",
+        "Contract Set": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -74.005182,
+          40.714739
+        ],
+        "type": "Point"
+      },
+      "id": "84845be75717d39c31b60fde95b5f5bc"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Prospect House - ( Buckinghamshire - High Wycombe)",
+        "Address": "38 Crendon Street, High Wycombe, Buckinghamshire, HP13 6AL",
+        "Service Description": "",
+        "Contract Set": "Fedcap UK"
+      },
+      "geometry": {
+        "coordinates": [
+          -0.747054,
+          51.629326
+        ],
+        "type": "Point"
+      },
+      "id": "853042d2ed9bec0bad06c5158971f332"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Public Archives Building",
+        "Address": "121 M.L.K. Jr Blvd N, Dover, DE 19901",
+        "Service Description": "Janitorial Services",
+        "Contract Set": "Delaware"
+      },
+      "geometry": {
+        "coordinates": [
+          -75.602763,
+          39.170001
+        ],
+        "type": "Point"
+      },
+      "id": "85b484f3abc445acac724bfd4fdd40e7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Liberty Island",
+        "Address": "Liberty Island, Manhattan, New York, New York, United States of America",
+        "Service Description": "Janitorial Services",
+        "Contract Set": "Source America"
+      },
+      "geometry": {
+        "coordinates": [
+          -74.045139,
+          40.689813
+        ],
+        "type": "Point"
+      },
+      "id": "88dfe0d86a9916376c611ef5ddf8f0e7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Congresswoman Yvette Clark",
+        "Address": "222 Lenox Rd Suite 2, Brooklyn, NY 11226",
+        "Service Description": "Janitorial Services",
+        "Contract Set": "Commercial"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.951677,
+          40.653588
+        ],
+        "type": "Point"
+      },
+      "id": "89962e450a74f32144beb2b8cb28616a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Arlington CSB , Alexandria CSB, Loudoun County",
+        "Address": "8221 Willow Oaks Corporate Dr, Fairfax, VA 22031",
+        "Service Description": "Supported Employment",
+        "Contract Set": "MVLE"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.233959,
+          38.863724
+        ],
+        "type": "Point"
+      },
+      "id": "8ac933be8da44f6499729e32021485c8"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Adam Clayton Powell Jr. State Office Building",
+        "Address": "163 W 125th St, New York, NY 10027",
+        "Service Description": "Janitorial Services",
+        "Contract Set": "NYSID"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.947325,
+          40.809158
+        ],
+        "type": "Point"
+      },
+      "id": "8e49dde22f3b6e38ddb439889cb87b9b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Corporate Services/ ReServe/ InSynergy",
+        "Address": "633 3rd Avenue  6th Floor, NY, NY 10017",
+        "Service Description": "Corporate Support",
+        "Contract Set": "Fedcap NY"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.974782,
+          40.749712
+        ],
+        "type": "Point"
+      },
+      "id": "8e4c61ad714df70aed643db2e93eb780"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "NYC Transit Authority",
+        "Address": " 130 Livingston Street, Brooklyn, NY",
+        "Service Description": "Janitorial Services",
+        "Contract Set": "NYSID"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.988746,
+          40.690388
+        ],
+        "type": "Point"
+      },
+      "id": "90d5f6689528657434331c2da07b5020"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Hagerstown Goodwill-Fort Detrick Garrison",
+        "Address": "151 N Burhans Blvd #4638, Hagerstown, MD 21740",
+        "Service Description": "Custodial",
+        "Contract Set": "MVLE"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.725491,
+          39.647429
+        ],
+        "type": "Point"
+      },
+      "id": "91e3909ab874760e936e9eb90f761f8a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "ICE Courier",
+        "Address": "26 Federal Plaza, New York, NY 10278",
+        "Service Description": "Courier Services ",
+        "Contract Set": "Source America"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.195704,
+          40.75961
+        ],
+        "type": "Point"
+      },
+      "id": "9238434a350d931d343aaa53b8de1de0"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Tatnall Building",
+        "Address": " 150 William Penn St. Dover, DE 19901",
+        "Service Description": "Janitorial Services",
+        "Contract Set": "Delaware"
+      },
+      "geometry": {
+        "coordinates": [
+          -75.519617,
+          39.156333
+        ],
+        "type": "Point"
+      },
+      "id": "924b69d5c3e9ecd7133f6057224e1487"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Jamaica (DHS)",
+        "Address": "175-10 88th Ave, Jamaica, NY 11432",
+        "Service Description": "",
+        "Contract Set": "Wildcat"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.786369,
+          40.711118
+        ],
+        "type": "Point"
+      },
+      "id": "931dcd36a29f70325e4954b8365406a8"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "NYS Department of Labor",
+        "Address": "Service: Office Services: Messenger, mail sort, delivery<br>Location of Service: 9 Bond St, NYC; 75 Varick St, NYC",
+        "Service Description": "",
+        "Contract Set": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -73.983033,
+          40.689317
+        ],
+        "type": "Point"
+      },
+      "id": "93d1a981ef7cfb113c664eef6023e32b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "201 Varick Street",
+        "Address": "201 Varick St, New York, NY 10014",
+        "Service Description": "Janitorial Services",
+        "Contract Set": "Source America"
+      },
+      "geometry": {
+        "coordinates": [
+          -74.005561,
+          40.728325
+        ],
+        "type": "Point"
+      },
+      "id": "95482b0cf0c0bf3487cd8c084302d905"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Walter Reed Army Institute Research (WRAIR)",
+        "Address": "503 Robert Grant Ave, Silver Spring, MD 20910",
+        "Service Description": "Custodial",
+        "Contract Set": "MVLE"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.052669,
+          39.005829
+        ],
+        "type": "Point"
+      },
+      "id": "961e775707e58033096f24a84fb1da41"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "NYC OATH Data Entry",
+        "Address": "Gertz Plaza Building, 92-31 Union Hall Street. Jamaica, NY 11443",
+        "Service Description": " Data Entry",
+        "Contract Set": "Commercial"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.797068,
+          40.703177
+        ],
+        "type": "Point"
+      },
+      "id": "9a56fe7ae10630b5bb08c0d21f892d31"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "55 Hanson",
+        "Address": "55 Hanson Pl, Brooklyn, NY 11217",
+        "Service Description": "Janitorial Services",
+        "Contract Set": "NYSID"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.975748,
+          40.685562
+        ],
+        "type": "Point"
+      },
+      "id": "9b1439034c4052db48ea61a982c515ad"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "NYC Dept of Sanitation",
+        "Address": "All Locations",
+        "Service Description": "Janitorial Services",
+        "Contract Set": "NYSID"
+      },
+      "geometry": {
+        "coordinates": [
+          -74.383351,
+          40.4239
+        ],
+        "type": "Point"
+      },
+      "id": "9d059aef3b99e184bb185684f8735085"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Emma Bowan Community Service Center",
+        "Address": "1727 Amsterdam Ave, New York, NY 10031",
+        "Service Description": "",
+        "Contract Set": "CWS"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.946957,
+          40.82545
+        ],
+        "type": "Point"
+      },
+      "id": "9d5b7ad078dd76e408a29c29e6cd189a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Source America HQ",
+        "Address": " 8401 Old Courthouse Road Vienna, VA",
+        "Service Description": "Custodial",
+        "Contract Set": "MVLE"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.235755,
+          38.914845
+        ],
+        "type": "Point"
+      },
+      "id": "9d89a5a6111492f819dffb5d5259e085"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "NSLIJ Rego Park Urgent Care Center",
+        "Address": "95-25 Queens Boulevard,Rego Park, NY 11374",
+        "Service Description": "Medical Clinic",
+        "Contract Set": "Fedcap WeCare"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.863132,
+          40.730836
+        ],
+        "type": "Point"
+      },
+      "id": "9fec26e32d5c847fee59a7932e6cb8c4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "NYC OCME",
+        "Address": "81 39th St, Brooklyn, NY 11232",
+        "Service Description": "COVID Disinfecting Services",
+        "Contract Set": "NYSID"
+      },
+      "geometry": {
+        "coordinates": [
+          -74.012546,
+          40.656958
+        ],
+        "type": "Point"
+      },
+      "id": "a00ca8177a11752921c928277f3f4e44"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "GSA NJ COVID-19",
+        "Address": "GSA NJ Consolidated",
+        "Service Description": "Janitorial Services",
+        "Contract Set": "Source America"
+      },
+      "geometry": {
+        "coordinates": [
+          -74.359953,
+          40.512437
+        ],
+        "type": "Point"
+      },
+      "id": "a2da65ff0ec460cad8ebaa838d84f96c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "GSA Manhattan",
+        "Address": "201 Varick St #102, New York, NY 10014",
+        "Service Description": "Janitorial Services & COVID-19 Disinfecting Services",
+        "Contract Set": "Source America"
+      },
+      "geometry": {
+        "coordinates": [
+          -74.012906,
+          40.71321
+        ],
+        "type": "Point"
+      },
+      "id": "a473c9594752e5a1fe771d56c6275bc9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Queens Service Site",
+        "Address": "Gertz Building 92-31 Union Hall Street, Jamaica, NY 11432",
+        "Service Description": "Clinic Support Services",
+        "Contract Set": "Fedcap WeCare"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.797322,
+          40.703545
+        ],
+        "type": "Point"
+      },
+      "id": "a5bdab6ff2dc4a571aeabe2877856af1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "NASA Headquarters",
+        "Address": "300 E St SW, Washington, DC 20546",
+        "Service Description": "Custodial",
+        "Contract Set": "MVLE"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.016278,
+          38.883064
+        ],
+        "type": "Point"
+      },
+      "id": "a69c444920ee823dee4b5f9a432a0704"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Ellis Island",
+        "Address": "Ellis Island, Manhattan, Jersey City, New Jersey, United States of America",
+        "Service Description": "Ellis Island",
+        "Contract Set": "Source America"
+      },
+      "geometry": {
+        "coordinates": [
+          -74.042013,
+          40.698593
+        ],
+        "type": "Point"
+      },
+      "id": "a721737cf5fd0d629dd7c1586c6da002"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "LIRR Mail",
+        "Address": "1231 Lafayette Ave, Bronx, NY 10474",
+        "Service Description": "Office Services Mail Services",
+        "Contract Set": "NYSID"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.890603,
+          40.816759
+        ],
+        "type": "Point"
+      },
+      "id": "a8437f7f5646da47e6f4d09f1a9dc327"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Granite Pathways Headquarters",
+        "Address": "10 Ferry St STE 308, Concord, NH 0330",
+        "Service Description": "Vocational and Substance Abuse Rehabilitation",
+        "Contract Set": "Fedcap Group"
+      },
+      "geometry": {
+        "coordinates": [
+          -71.538173,
+          43.21275
+        ],
+        "type": "Point"
+      },
+      "id": "a85a91bc201286e4b92bd57b77486d56"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Freehold Office Building",
+        "Address": "100 Daniels Way, Freehold, NJ",
+        "Service Description": "",
+        "Contract Set": "ACCESS NJ"
+      },
+      "geometry": {
+        "coordinates": [
+          -74.274728,
+          40.245441
+        ],
+        "type": "Point"
+      },
+      "id": "ad7fa0c2f1eba29ac31834085450d669"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Fedcap Rehabilitation Services",
+        "Address": "1011 Washington Avenue, Bronx, NY",
+        "Service Description": "Behavioral Health Services",
+        "Contract Set": "Fedcap NY"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.909849,
+          40.826405
+        ],
+        "type": "Point"
+      },
+      "id": "af4ffbbfe9eb17c6c188b89a4aa0ea27"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "500 Pearl Street",
+        "Address": "500 Pearl St, New York, NY 10007",
+        "Service Description": "Janitorial Services",
+        "Contract Set": "Source America"
+      },
+      "geometry": {
+        "coordinates": [
+          -74.000869,
+          40.713662
+        ],
+        "type": "Point"
+      },
+      "id": "b013bae2e92500ed5eee4131e83eb36b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Safe Harbor Recovery Center - a program of Granite Pathways",
+        "Address": "865 Islington St, Portsmouth, NH 03801",
+        "Service Description": "",
+        "Contract Set": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -70.774054,
+          43.068242
+        ],
+        "type": "Point"
+      },
+      "id": "b0af454315ab0e47cd29da8c9ce06020"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "DelDOT Bear Christiana",
+        "Address": "250 Bear Christiana Rd, Bear, DE 19701",
+        "Service Description": "Janitorial Services",
+        "Contract Set": "Delaware"
+      },
+      "geometry": {
+        "coordinates": [
+          -75.658687,
+          39.656837
+        ],
+        "type": "Point"
+      },
+      "id": "b0f6034b35c1614e622b14d53fd5aaef"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Executive Headquarters",
+        "Address": "501 Madison Ave, 12A New York, NY 10022",
+        "Service Description": "Executive Headquarters",
+        "Contract Set": "Fedcap NY"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.97421,
+          40.759741
+        ],
+        "type": "Point"
+      },
+      "id": "b110c9b6d9bb6c4fe1c1857f8f31e317"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Christopher Brown Law Offices",
+        "Address": "3123 Atlantic Ave, Atlantic City, NJ 08401",
+        "Service Description": " Payroll Dept",
+        "Contract Set": "Commercial"
+      },
+      "geometry": {
+        "coordinates": [
+          -74.449081,
+          39.35368
+        ],
+        "type": "Point"
+      },
+      "id": "b1fe9c1a4706e468c1be734d9f0395a6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Brookyln Service Site",
+        "Address": "200 Montague Street, Brooklyn, NY 11201",
+        "Service Description": "Clinic Support Services",
+        "Contract Set": "Fedcap WeCare"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.991221,
+          40.693747
+        ],
+        "type": "Point"
+      },
+      "id": "b2d522cceeeca274d8656aca4d940b62"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "MLK Federal Building and Courthouse",
+        "Address": "50 Walnut St #4015, Newark, NJ 07102",
+        "Service Description": "anitorial Services/ Mech Maintenance",
+        "Contract Set": "Source America"
+      },
+      "geometry": {
+        "coordinates": [
+          -74.172373,
+          40.729763
+        ],
+        "type": "Point"
+      },
+      "id": "b58631e2a99a3cfa8ee4b098cc390b3c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "1 St Andrews",
+        "Address": "1 Saint Andrews PlazaNew York, NY 10007",
+        "Service Description": "Janitorial Services",
+        "Contract Set": "Source America"
+      },
+      "geometry": {
+        "coordinates": [
+          -74.002678,
+          40.712912
+        ],
+        "type": "Point"
+      },
+      "id": "b5e1a44844c5fe4cdb78a8dd6523bfbe"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "NYC Dept of Correction: Training Academy",
+        "Address": "66-26 Metropolitan Ave Middle Village, NY 11379",
+        "Service Description": "Janitorial Services",
+        "Contract Set": "NYSID"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.89077,
+          40.71117
+        ],
+        "type": "Point"
+      },
+      "id": "b8ec44baf3da9582b5c88bb05f53af65"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": " Bass River Municipal Building",
+        "Address": "3 North Maple Avenue, New Gretna, Bass River Township, NJ 08224",
+        "Service Description": "",
+        "Contract Set": "ACCESS NJ"
+      },
+      "geometry": {
+        "coordinates": [
+          -74.451529,
+          39.592847
+        ],
+        "type": "Point"
+      },
+      "id": "b9e737618dadcda6fb4a52f928d7e5b7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Jesse Cooper",
+        "Address": "417 Federal Street Dover, DE 19901",
+        "Service Description": "Janitorial Services",
+        "Contract Set": "Delaware"
+      },
+      "geometry": {
+        "coordinates": [
+          -75.521164,
+          39.155732
+        ],
+        "type": "Point"
+      },
+      "id": "ba0dbfac1ed60be1ed740462b87527dd"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Justice of Peace 10&12",
+        "Address": "212 Greenbank Rd, Wilmington, DE 19808",
+        "Service Description": "Janitorial Services",
+        "Contract Set": "Delaware"
+      },
+      "geometry": {
+        "coordinates": [
+          -75.628423,
+          39.738883
+        ],
+        "type": "Point"
+      },
+      "id": "bb8f7b6d4a3d625ff06a5b85960635e0"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "JP Court #6",
+        "Address": "35 Cams Fortune Way, Harrington, DE 19954",
+        "Service Description": "Janitorial Services",
+        "Contract Set": "Delaware"
+      },
+      "geometry": {
+        "coordinates": [
+          -75.511496,
+          38.928028
+        ],
+        "type": "Point"
+      },
+      "id": "bc01f29b146e4382d38d1ba8a6bf7eb9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Trenton Office Complex",
+        "Address": "225 East State Street, Trenton, NJ 08666\n",
+        "Service Description": "",
+        "Contract Set": "ACCESS NJ"
+      },
+      "geometry": {
+        "coordinates": [
+          -74.75908,
+          40.218714
+        ],
+        "type": "Point"
+      },
+      "id": "bc86094195bc23be34e61485d4ee3aa7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Barbara Klienmen (DHS)",
+        "Address": "300 Skillman Ave, Brooklyn, NY 11211",
+        "Service Description": "",
+        "Contract Set": "Wildcat"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.938413,
+          40.71653
+        ],
+        "type": "Point"
+      },
+      "id": "bcf15c1dd9ffc4df122010e02e51f070"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "New Castle Fire Marshall",
+        "Address": "2307 MacArthur Drive, New Castle, DE 19720",
+        "Service Description": "Janitorial Services",
+        "Contract Set": "Delaware"
+      },
+      "geometry": {
+        "coordinates": [
+          -75.615443,
+          39.690509
+        ],
+        "type": "Point"
+      },
+      "id": "bdfd8a50758bb717dc944976ae8b339a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Bronx Service Site",
+        "Address": "2432 Grand Concourse, Bronx, NY 10458",
+        "Service Description": "Clinic Support Services",
+        "Contract Set": "Fedcap WeCare"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.897781,
+          40.860621
+        ],
+        "type": "Point"
+      },
+      "id": "be93ae7bbef8411ca75d3ed50b375023"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "NYC Transit Authority",
+        "Address": "46-25 Metropolitan Ave, Queens, NY 11385",
+        "Service Description": "Janitorial Services",
+        "Contract Set": "NYSID"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.923202,
+          40.714756
+        ],
+        "type": "Point"
+      },
+      "id": "bf15514db1751d9bdc087f2663e81d06"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "CWS - Boston",
+        "Address": "174 Portland St, Boston, MA 02114",
+        "Service Description": "",
+        "Contract Set": "CWS"
+      },
+      "geometry": {
+        "coordinates": [
+          -71.061785,
+          42.364134
+        ],
+        "type": "Point"
+      },
+      "id": "bf3ce769c4128991494c7213e7fa60da"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Bivalve - Ogdon Ave",
+        "Address": "2669 Ogdon Ave, Port Norris, NJ",
+        "Service Description": "",
+        "Contract Set": "ACCESS NJ"
+      },
+      "geometry": {
+        "coordinates": [
+          -75.02453,
+          39.239308
+        ],
+        "type": "Point"
+      },
+      "id": "c2905ca975cc19cdb6cb76f15d7d7b34"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "DelDOT Kiamensi",
+        "Address": "39 Regal Blvd, Newark, DE 19713",
+        "Service Description": "Janitorial Services",
+        "Contract Set": "Delaware"
+      },
+      "geometry": {
+        "coordinates": [
+          -75.690211,
+          39.668384
+        ],
+        "type": "Point"
+      },
+      "id": "c7270b188163606b1d52ad63d861a596"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "DOC Probation and Parole (Cherry Lane)",
+        "Address": "314 Cherry Ln, New Castle, DE 19720",
+        "Service Description": "Janitorial Services",
+        "Contract Set": "Delaware"
+      },
+      "geometry": {
+        "coordinates": [
+          -75.545336,
+          39.689725
+        ],
+        "type": "Point"
+      },
+      "id": "c7b4c64f8697a481912f7d0ffc8df884"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Alexandria Middle School",
+        "Address": "557 Rte. 513, Pittstown , NJ 08867",
+        "Service Description": "",
+        "Contract Set": "ACCESS NJ"
+      },
+      "geometry": {
+        "coordinates": [
+          -75.015167,
+          40.570443
+        ],
+        "type": "Point"
+      },
+      "id": "c92cd6cc98cb6b0e45c6bc4dea0c8050"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Ford House Building",
+        "Address": "2nd St SW & D St SW, Washington, DC 20515",
+        "Service Description": "Janitorial Services",
+        "Contract Set": "Source America"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.013662,
+          38.885064
+        ],
+        "type": "Point"
+      },
+      "id": "cbca1dea23e291520cdf7e533c4f8d1e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Biggs DTI",
+        "Address": "1901 N. DuPont Hwy, New Castle, DE 19720",
+        "Service Description": "Janitorial Services",
+        "Contract Set": "Delaware"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.988127,
+          40.750086
+        ],
+        "type": "Point"
+      },
+      "id": "cc3ebd1fb156e6b55b9b6a7e5f369192"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Fort Belvoir 1809/1840",
+        "Address": " 800 Belvoir Road. Fort Belvoir, VA, United States. 22060.",
+        "Service Description": "Custodial",
+        "Contract Set": "MVLE"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.134205,
+          38.687957
+        ],
+        "type": "Point"
+      },
+      "id": "cd136c392ec3b9e3fcba1e00be6bfcd0"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "FAA TRACON Janitorial & Landscaping",
+        "Address": "1515 Stewart Ave,\nWestbury, NY 11590",
+        "Service Description": "Janitorial Services, Grounds Maintenance",
+        "Contract Set": "Source America"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.587224,
+          40.73801
+        ],
+        "type": "Point"
+      },
+      "id": "cddfc96cef31a0ff42d5f42a4930c955"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Flatlands (DHS)",
+        "Address": "108-75 Avenue D, Brooklyn, NY 11236",
+        "Service Description": "",
+        "Contract Set": "Wildcat"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.899387,
+          40.656476
+        ],
+        "type": "Point"
+      },
+      "id": "d12d576f09a62ace436ad95409bda662"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Venture House (Berkshire - Bracknell)",
+        "Address": "Venture House, 2 Arlington Square, Bracknell RG12 1WA, UK",
+        "Service Description": "",
+        "Contract Set": "Fedcap UK"
+      },
+      "geometry": {
+        "coordinates": [
+          -0.757708,
+          51.41532
+        ],
+        "type": "Point"
+      },
+      "id": "d3a3531e14282301de9ec4877ce20eee"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "MG Donohue Building Management UNICOR (Federal Prison Industries) )",
+        "Address": "FPI Central Office, Washington DC",
+        "Service Description": "Janitorial Services",
+        "Contract Set": "Commercial"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.01259,
+          38.895062
+        ],
+        "type": "Point"
+      },
+      "id": "d458bf52bb3c1bc2e29b81ceeb38730c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "225 Cadman Plaza",
+        "Address": "225 Cadman Plaza E, Brooklyn, NY 11201",
+        "Service Description": "Janitorial Services & COVID-19 Disinfecting Services",
+        "Contract Set": "Source America"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.989343,
+          40.696772
+        ],
+        "type": "Point"
+      },
+      "id": "d505e144c3a9a1412f010560ae8ab7a0"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Margaret O'Neill Building",
+        "Address": "410 Federal Street, Dover, DE 19901",
+        "Service Description": "Janitorial Services",
+        "Contract Set": "Delaware"
+      },
+      "geometry": {
+        "coordinates": [
+          -75.522347,
+          39.156439
+        ],
+        "type": "Point"
+      },
+      "id": "d58d99a2756b6199c638d71b7237f059"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Liberty State Park",
+        "Address": "200 Morris Pesin Dr, Jersey City, NJ 07305",
+        "Service Description": "Janitorial Services",
+        "Contract Set": "Source America"
+      },
+      "geometry": {
+        "coordinates": [
+          -74.050345,
+          40.703998
+        ],
+        "type": "Point"
+      },
+      "id": "dfefa4ee23b8803abcb3f0ef16c4db89"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Memorial Sloan Kettering",
+        "Address": "163 W 25th Street, NYC (ACP Office Bldg)",
+        "Service Description": "Janitorial Services",
+        "Contract Set": "Commercial"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.994123,
+          40.745359
+        ],
+        "type": "Point"
+      },
+      "id": "e202b47df62a7f76eb9c2e3c17611f22"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "NJ Training School for Boys-JJC",
+        "Address": "1 State Home Rd., Monroe Township, NJ 08831-0500",
+        "Service Description": "",
+        "Contract Set": "ACCESS NJ"
+      },
+      "geometry": {
+        "coordinates": [
+          -74.420999,
+          40.341471
+        ],
+        "type": "Point"
+      },
+      "id": "e2e11f24dc48157630f9d407a46d950d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Five Below AZ",
+        "Address": "2150 S. Miller Road Buckeye, AZ 85326",
+        "Service Description": "Supported Employment",
+        "Contract Set": "Commercial"
+      },
+      "geometry": {
+        "coordinates": [
+          -112.590777,
+          33.355316
+        ],
+        "type": "Point"
+      },
+      "id": "e30a8fc8f36a87d839899364ee08ea1a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Bostetter Courthouse",
+        "Address": "200 S. Washington Street, Alexandria, VA",
+        "Service Description": " Custodial",
+        "Contract Set": "MVLE"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.046641,
+          38.803617
+        ],
+        "type": "Point"
+      },
+      "id": "e3419b398bc50a1e357a7ac5d5893ae0"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Hope Forward",
+        "Address": "Blaustein Building, 1 N Charles St #1102B, Baltimore, MD 21202",
+        "Service Description": "Counseling, Coaching",
+        "Contract Set": "Fedcap US"
+      },
+      "geometry": {
+        "coordinates": [
+          -76.614825,
+          39.290112
+        ],
+        "type": "Point"
+      },
+      "id": "e34efbbc4a2f7bad6f1e5284916c375b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Thomas Collins Building",
+        "Address": " 540 S. Dupont Hwy, Dover, DE 19904",
+        "Service Description": "Janitorial Services",
+        "Contract Set": "Delaware"
+      },
+      "geometry": {
+        "coordinates": [
+          -75.513967,
+          39.154067
+        ],
+        "type": "Point"
+      },
+      "id": "e5fe95f95cd85222169b4b71e63e6375"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Justice of Peace 10&12",
+        "Address": "210 Greenbank Rd, Wilmington, DE 19808",
+        "Service Description": "Janitorial Services",
+        "Contract Set": "Delaware"
+      },
+      "geometry": {
+        "coordinates": [
+          -75.628423,
+          39.738883
+        ],
+        "type": "Point"
+      },
+      "id": "e7010bbcf862e06fe8b9f37c64a80f5d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Atlantic County Drexel Ave M B",
+        "Address": "1227 DREXEL AVE, ATLANTIC CITY NJ 08401",
+        "Service Description": "",
+        "Contract Set": "ACCESS NJ"
+      },
+      "geometry": {
+        "coordinates": [
+          -74.429438,
+          39.367432
+        ],
+        "type": "Point"
+      },
+      "id": "e782caf8cc8ba482885c3d99e936d2f3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "NYS DMV",
+        "Address": "159 E 125th StNew York, NY 10035",
+        "Service Description": "COVID Disinfecting Services",
+        "Contract Set": "NYSID"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.936586,
+          40.804231
+        ],
+        "type": "Point"
+      },
+      "id": "e7cbf8996019c89544866a4e01d51b82"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Five Below GA",
+        "Address": "270 logistics center parkway, Juliette, GA 31046",
+        "Service Description": "Supported Employment",
+        "Contract Set": "Commercial"
+      },
+      "geometry": {
+        "coordinates": [
+          -83.848038,
+          32.988406
+        ],
+        "type": "Point"
+      },
+      "id": "ea71a91eb713dbb878ab9492345643bb"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Regal Court Business Centre",
+        "Address": "Regal Court Business Centre, 42-44 High St, Slough SL1 1EL, UK",
+        "Service Description": "",
+        "Contract Set": "Fedcap UK"
+      },
+      "geometry": {
+        "coordinates": [
+          -0.597544,
+          51.509917
+        ],
+        "type": "Point"
+      },
+      "id": "eaf87da718f85e8be2c83c7b1d23d063"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "New Edge (Fox Run)",
+        "Address": " 2540 Wrangle Hill Rd, Bear, DE 19701",
+        "Service Description": "Janitorial Services",
+        "Contract Set": "Delaware"
+      },
+      "geometry": {
+        "coordinates": [
+          -75.713805,
+          39.603956
+        ],
+        "type": "Point"
+      },
+      "id": "eba3dde530759816a46bb4cfc6d5ca7b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Auburn (DHS)",
+        "Address": "39 Auburn Pl, Brooklyn, NY 11205",
+        "Service Description": "",
+        "Contract Set": "Wildcat"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.976422,
+          40.69477
+        ],
+        "type": "Point"
+      },
+      "id": "ecc7f945678535495f585360bf89d87f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "PATH (DHS)",
+        "Address": "E 151st St, Bronx, NY",
+        "Service Description": "",
+        "Contract Set": "Wildcat"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.92388,
+          40.819256
+        ],
+        "type": "Point"
+      },
+      "id": "ed03a80a132c4556cb9ee77a93ca7fc4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Ft. Hamilton Funded thru May 2021",
+        "Address": "Fort Hamilton, Brooklyn, NY",
+        "Service Description": "Janitorial Services",
+        "Contract Set": "Source America"
+      },
+      "geometry": {
+        "coordinates": [
+          -74.028543,
+          40.6094
+        ],
+        "type": "Point"
+      },
+      "id": "ee8b735cd6287cb1c756de7b9fae61a0"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Bronx Medical Site",
+        "Address": "1276 Fulton Avenue, Bronx, NY 10456 ",
+        "Service Description": "Medical Clinic",
+        "Contract Set": "Fedcap WeCare"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.902808,
+          40.831375
+        ],
+        "type": "Point"
+      },
+      "id": "ef3094c60260154c38a9169f31045edb"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "CWS - Rhode Island",
+        "Address": "20 Marblehead Ave, North Providence, RI 02904",
+        "Service Description": "",
+        "Contract Set": "CWS"
+      },
+      "geometry": {
+        "coordinates": [
+          -71.456883,
+          41.861142
+        ],
+        "type": "Point"
+      },
+      "id": "f07a731ac8cba59c24414e192a8cd715"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Bureau of Land Management",
+        "Address": "20 M St SE, Washington, DC 20003",
+        "Service Description": "Custodial",
+        "Contract Set": "MVLE"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.007955,
+          38.876707
+        ],
+        "type": "Point"
+      },
+      "id": "f0efa3a39677102102ff73002cb27166"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Alexandria Twp. Board of Education",
+        "Address": "Lester Wilson Elementary School 525 Rte. 513, Pittstown , NJ 08867",
+        "Service Description": "",
+        "Contract Set": "ACCESS NJ"
+      },
+      "geometry": {
+        "coordinates": [
+          -75.025673,
+          40.566918
+        ],
+        "type": "Point"
+      },
+      "id": "f51e09999506740c85e45b0a85c293d7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Del DOT North District Headquarters Floor Care",
+        "Address": "39 East Regal Blvd, Newark, DE",
+        "Service Description": "Janitorial Services",
+        "Contract Set": "Delaware"
+      },
+      "geometry": {
+        "coordinates": [
+          -75.690669,
+          39.669951
+        ],
+        "type": "Point"
+      },
+      "id": "f7e6d4aa19a54ec84d0735bf931de3e9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "PAX River",
+        "Address": " 47123 Buse Rd #540, Patuxent River, MD 20670",
+        "Service Description": " Custodial",
+        "Contract Set": "MVLE"
+      },
+      "geometry": {
+        "coordinates": [
+          -76.432219,
+          38.272133
+        ],
+        "type": "Point"
+      },
+      "id": "f80adb5b949958c11557f27aca8662ee"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "NYC Dept of Finance",
+        "Address": "Gertz Plaza Building, 92-31 Union Hall Street. Jamaica, NY 11443",
+        "Service Description": "Office Services Data Imaging, Scanning & Keying",
+        "Contract Set": "NYSID"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.797068,
+          40.703177
+        ],
+        "type": "Point"
+      },
+      "id": "f8b6969b6fb30f5366bf88f3025872dc"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Rodino Building: Rodino USCIS",
+        "Address": "970 Broad St, Newark, NJ 07102",
+        "Service Description": "anitorial Services/ Mech Maintenance",
+        "Contract Set": "Source America"
+      },
+      "geometry": {
+        "coordinates": [
+          -74.172373,
+          40.730233
+        ],
+        "type": "Point"
+      },
+      "id": "f8f47cc711d58d0c5638f26660c36645"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Atlantic County Facility Mgmt",
+        "Address": "101 SOUTH SHORE RD, NORTHFIELD NJ 08232",
+        "Service Description": "",
+        "Contract Set": "ACCESS NJ"
+      },
+      "geometry": {
+        "coordinates": [
+          -74.536821,
+          39.377363
+        ],
+        "type": "Point"
+      },
+      "id": "faeb70ad67caee21a338a49258a54a11"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "USCG Sea Isle City Grounds Services April-Oct Only",
+        "Address": "8101 Landis AveSea Isle City, NJ 08243",
+        "Service Description": " Grounds Maintenance",
+        "Contract Set": "Source America"
+      },
+      "geometry": {
+        "coordinates": [
+          -74.709244,
+          39.128418
+        ],
+        "type": "Point"
+      },
+      "id": "fb326525adbc8e445b65140e3b6ea25d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "US Mission",
+        "Address": "799 United Nations Plaza, New York, NY 10017",
+        "Service Description": "Janitorial Services",
+        "Contract Set": "Source America"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.96893,
+          40.750686
+        ],
+        "type": "Point"
+      },
+      "id": "fced91979793dcd90c2f02603ba13265"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Manufacturing",
+        "Address": "1231 Lafayette Ave, Bronx, NY 10474",
+        "Service Description": "Manufacturing",
+        "Contract Set": "Fedcap NY"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.890603,
+          40.816759
+        ],
+        "type": "Point"
+      },
+      "id": "fd960c7ba1c58eb06e91d5a7cc188917"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "NYS Department of Labor Church St",
+        "Address": "99 Church StNew York, NY 10007",
+        "Service Description": "Office Services: Messenger, mail sort, delivery",
+        "Contract Set": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -74.006762,
+          40.716229
+        ],
+        "type": "Point"
+      },
+      "id": "fdce0c9a2f8ce8c1bb1cf4d4e0dd3197"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Warriors in Transition Unit (WTU)",
+        "Address": "9500 Pohick Rd, Fort Belvoir, VA 22060",
+        "Service Description": "Custodial",
+        "Contract Set": "MVLE"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.145074,
+          38.702024
+        ],
+        "type": "Point"
+      },
+      "id": "fe6f00b410cb56b2bc4421627a4caa3a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "",
+        "Address": "625 Fulton St, Brooklyn, NY 11201",
+        "Service Description": "",
+        "Contract Set": "Source America"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.980031,
+          40.688694
+        ],
+        "type": "Point"
+      },
+      "id": "feb79c08ea7c230fcea698063d10f822"
+    }
+  ],
+  "type": "FeatureCollection"
+}
